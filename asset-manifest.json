@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-juros-compostos/static/css/main.464df1a8.chunk.css",
+    "main.js": "/react-juros-compostos/static/js/main.1b6d702e.chunk.js",
+    "main.js.map": "/react-juros-compostos/static/js/main.1b6d702e.chunk.js.map",
+    "runtime-main.js": "/react-juros-compostos/static/js/runtime-main.6f0f9a15.js",
+    "runtime-main.js.map": "/react-juros-compostos/static/js/runtime-main.6f0f9a15.js.map",
+    "static/css/2.36020323.chunk.css": "/react-juros-compostos/static/css/2.36020323.chunk.css",
+    "static/js/2.b37c9c75.chunk.js": "/react-juros-compostos/static/js/2.b37c9c75.chunk.js",
+    "static/js/2.b37c9c75.chunk.js.map": "/react-juros-compostos/static/js/2.b37c9c75.chunk.js.map",
+    "index.html": "/react-juros-compostos/index.html",
+    "precache-manifest.b222bc91ebd862e36ee82403666d0aae.js": "/react-juros-compostos/precache-manifest.b222bc91ebd862e36ee82403666d0aae.js",
+    "service-worker.js": "/react-juros-compostos/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/react-juros-compostos/static/css/2.36020323.chunk.css.map",
+    "static/css/main.464df1a8.chunk.css.map": "/react-juros-compostos/static/css/main.464df1a8.chunk.css.map",
+    "static/js/2.b37c9c75.chunk.js.LICENSE.txt": "/react-juros-compostos/static/js/2.b37c9c75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f0f9a15.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.b37c9c75.chunk.js",
+    "static/css/main.464df1a8.chunk.css",
+    "static/js/main.1b6d702e.chunk.js"
+  ]
+}
